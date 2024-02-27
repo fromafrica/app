@@ -16,6 +16,17 @@
       ]
     ],
     "name": "mobile",
-    "slug": "mobile"
+    "slug": "mobile",
+    "extra": {
+      "router": {
+        "origin": "https://n"
+      },
+      "eas": {
+        "projectId": "2ad490fe-4386-4b83-9f4f-a072ccfc6451"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.samifouad.mobile"
+    }
   }
 }

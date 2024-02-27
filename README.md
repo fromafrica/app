@@ -1,9 +1,5 @@
-# Expo Router and Tailwind CSS
+# app
 
-Use [Expo Router](https://docs.expo.dev/router/introduction/) with [Nativewind](https://www.nativewind.dev/v4/overview/) styling.
+this is the code for app.fromafri.ca, and the iOS and Android apps
 
-## 🚀 How to use
-
-```sh
-npx create-expo-app -e with-router-tailwind
-```
+they are all built from this repo using React Native + Expo + TypeScript + Tailwind
